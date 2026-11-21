@@ -1,0 +1,15 @@
+# 安装包不入库，只通过 GitHub Release 分发
+*.dmg
+*.deb
+*.rpm
+*.AppImage
+*.AppImage.tar.gz
+*.exe
+*.msi
+*.nsis.zip
+*.sig
+*.tar.gz
+*.zip
+
+# macOS
+.DS_Store
